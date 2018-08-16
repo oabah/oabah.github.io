@@ -5,10 +5,10 @@ body {
 h1 {
   font-style: italic;
   font-weight: bold;
-  color: white;
+  font-color: white;
 }
 
 p{
-   color: white;
+   font-color: white;
 }
 
