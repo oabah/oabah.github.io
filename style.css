@@ -1,14 +1,14 @@
 body {
-   background-color: white;
+   background-color: red;
  }
   
 h1 {
   font-style: italic;
   font-weight: bold;
-  font-color: white;
+  color: white;
 }
 
 p{
-   font-color: white;
+   color: white;
 }
 
