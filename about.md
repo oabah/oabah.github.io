@@ -3,14 +3,13 @@ layout: main
 title: About
 ---
 
-## pwright4
+## oabah
 
 This is just a page where you can put whatever content you'd like.
 
 ## Contact Information
 
-Here you could, for instance, link to your [GitHub](http://www.github.com/pwright4) or 
-[Twitter](http://www.twitter.com/msupwright4) profiles.
+Here you could, for instance, link to your [GitHub](http://www.github.com/oabah)
 
 ## Other Pages
 
