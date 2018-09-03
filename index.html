@@ -1,37 +1,10 @@
-<!--<!doctyple html>
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href=" oabah.github.io/style.css">
-    <title>Ojoniko Mobile and Web 2018</title>
-  </head>
-  <body>
-    <h1>oabah</h1>
-    <p>This is a simple web page for <a href="https://msucsis.github.io/csc425/">CSC-425.</a> My goals this semester are:
-      <ul>
-        <li>Learn</li>
-        <li>Improve</li>
-        <li>Have Fun</li>
-      </ul>
-    </p>
-  </body>
-</html>//-->
-
 ---
-title: My Projrct Diary
+title: oabah's projects
 layout: main
 ---
 
-<p>Dear Project Diary...</p>
 {% for post in site.posts %}
-<article>
-	<h2>
-		<a href= "{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-	</h2>
-	<p>
-		{{ post.excerpt }}
-	</p>
-	<p>
-		<a href= "{{site.baseurl}}{{post.url}}">Continue Reading...</a>
-	</p>	
-<article>
-{% endfor %}	
+  <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+  {{ post.excerpt }}
+  <a href="{{site.baseurl}}{{post.url}}">Read More</a>
+{% endfor %}
