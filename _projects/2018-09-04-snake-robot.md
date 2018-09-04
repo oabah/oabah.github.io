@@ -8,7 +8,7 @@ topics:
   - technology
 ---
 
-##Snake Project
+## Snake Project
 This project is an interesting one as it has many uses and real life uses.
 A major use of this is its effectiveness in helping in a disaster search.
 In situations such as earthquakes when it can be difficult to get beneath rubbles 
