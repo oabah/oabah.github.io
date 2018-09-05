@@ -1,7 +1,7 @@
 ---
 course-number: CSC 385
 description: This is a project I am presently working on in my special topics class, and we are designing a snake robot.
-image: /images/snake_robot
+image: /images/snake_robot.jpg
 topics:
   - snake robot
   - programming
