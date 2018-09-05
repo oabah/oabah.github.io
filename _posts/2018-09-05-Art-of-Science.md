@@ -1,6 +1,5 @@
 ---
 title: The Art of The Sciences
-
 layout: post
 ---
 
