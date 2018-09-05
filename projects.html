@@ -3,16 +3,12 @@ title: oabah's projects
 layout: main
 ---
 
-sdfasdfadf 
-
 {% for project in site.projects %}
   <h2><a href="{{site.baseurl}}{{project.url}}">{{project.course-number}}</a></h2>
 
-  {{project.description}}
+  {{project.excerpt }}
 
   <img src ="{{site.baseurl}}{{project.image}} alt="image" />
-
-  {{project.topics}}
 
   <a href="{{site.baseurl}}{{project.url}}">Read More</a>
 {% endfor %}
