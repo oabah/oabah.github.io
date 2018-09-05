@@ -5,13 +5,13 @@ title: About
 
 ## oabah
 
-This is just a page where you can put whatever content you'd like.
+Hello my name is Ojoniko Nathan Abah. I am an international student from Nigeria at Murray State, studying computer science.
 
 ## Contact Information
 
-Here you could, for instance, link to your [GitHub](http://www.github.com/oabah)
+This is a link to my [GitHub](http://www.github.com/oabah)
 
-## Other Pages
+## More Information
 
-You can also add pages other than an about page by just creating a markdown file in your 
-repository's directory structure where you want the page to appear.
+You can find out more information on what I am presently working on on my [now](http://www.github.com/oabah.io/now.html)
+
