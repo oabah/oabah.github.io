@@ -6,11 +6,11 @@ layout: main
 {% for post in site.projects %}
   <h2><a href="{{site.baseurl}}{{project.url}}">{{project.course number}}</a></h2>
 
-  <h3>{{project.description}}</h3>
+  {{project.description}}
 
-  <h4>{{project.image}}</h4>
+  {project.image}}
 
-  <h5>{{project.topics}}</h5>
+  {{project.topics}}
 
   <a href="{{site.baseurl}}{{project.url}}">Read More</a>
 {% endfor %}
