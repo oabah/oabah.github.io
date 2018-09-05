@@ -6,6 +6,10 @@ topics:
   - snake robot
   - programming
   - technology
+  - robotics
+  - c language
+  - arduino
+  - artificial intelligence
   
 layout: project 
 ---
