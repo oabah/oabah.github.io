@@ -11,11 +11,9 @@ layout: main
   <img src ="{{site.baseurl}}{{project.image}}" alt="image" />
 
   <ul>
-    <li>
-      {% for topic in project.topics %}
-        {{ topic }}
-      {% endfor %}
-    </li>
+     {% for topic in project.topics %}
+       <li>{{ topic }}</li>
+     {% endfor %}
   </ul> 
 
   <a href="{{site.baseurl}}{{project.url}}">Read More</a>
