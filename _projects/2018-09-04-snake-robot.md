@@ -5,7 +5,8 @@ image: /images/snake_robot.jpg
 topics:
   - snake robot
   - programming
-  - technology  
+  - technology
+  
 layout: project 
 ---
 
