@@ -1,16 +1,11 @@
 ---
 course-number: Student Work-Place Project
-
-description: This is a project I am presently working on 
-at my working place in the physics and engineering department.
-
+description: This is a project I am presently working on at my working place in the physics and engineering department.
 image: /images/virtual_fence.jpg
-
 topics:
   - snake robot
   - programming
   - technology
-
 layout: project 
 ---
 
