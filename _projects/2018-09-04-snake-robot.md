@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: main
 course-number: CSC 385
 description: This is a project I am presently working on in mhy special topics class, and we are designing a snake robot.
 image:
@@ -8,6 +8,8 @@ topics:
   - programming
   - technology
 ---
+
+asdf;lkj
 
 ## Snake Project
 This project is an interesting one as it has many uses and real life uses.
