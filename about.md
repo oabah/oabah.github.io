@@ -13,5 +13,5 @@ This is a link to my [GitHub](http://www.github.com/oabah)
 
 ## More Information
 
-You can find out more information on what I am presently working on on my [now]({{site.baseurl}}/now.html) page.
+You can find out more information on what I am presently working on on my [now](/now.html) page.
 
