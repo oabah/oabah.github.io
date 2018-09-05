@@ -1,5 +1,5 @@
 ---
-course number: CSC 385
+course-number: CSC 385
 description: This is a project I am presently working on in mhy special topics class, and we are designing a snake robot.
 image:
 topics:
