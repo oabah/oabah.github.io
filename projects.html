@@ -3,8 +3,14 @@ title: oabah's projects
 layout: main
 ---
 
-{% for post in site.posts %}
-  <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
-  {{ post.excerpt }}
-  <a href="{{site.baseurl}}{{post.url}}">Read More</a>
+{% for post in site.projects %}
+  <h2><a href="{{site.baseurl}}{{project.url}}">{{project.course number}}</a></h2>
+
+  <h4>{{project.description}}</h4>
+
+  <h5>{{project.image}}</h5>
+
+  <h6>{{project.topics}}</h6>
+
+  <a href="{{site.baseurl}}{{project.url}}">Read More</a>
 {% endfor %}
