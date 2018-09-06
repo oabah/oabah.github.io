@@ -5,7 +5,9 @@ title: About
 
 ## oabah
 
-Hello, my name is Ojoniko Nathan Abah. I am an international student from Nigeria at Murray State, studying computer science.
+Hello! My name is Ojoniko Nathan Abah. I am an international student from Nigeria at Murray State, majoring in computer science 
+and minoring in data analytics. I also love music and enjoy playing the drums as well as listening to Christian music. On this 
+page you will see some of my posts and projects. Welcome!
 
 ## Contact Information
 
